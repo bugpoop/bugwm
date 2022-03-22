@@ -1,0 +1,60 @@
+!! Transparency
+URxvt*transparent: true
+URxvt*shading: 30
+
+!! Font
+URxvt.font: xft:Iosevka:pixelsize=15:bold:antialias=true:autohint=true
+!URxvt.font: xft:Share Tech Mono:size=10:antialias=true:autohint=true
+
+! special
+*.foreground:   #b3b8b7
+*.background:   #0f0d09
+*.cursorColor:  #b3b8b7
+
+! black
+*.color0:       #0f0d09
+*.color8:       #7d8080
+
+! red
+*.color1:       #3a4341
+*.color9:       #3a4341
+
+! green
+*.color2:       #645a51
+*.color10:      #645a51
+
+! yellow
+*.color3:       #925b35
+*.color11:      #925b35
+
+! blue
+*.color4:       #8f705c
+*.color12:      #8f705c
+
+! magenta
+*.color5:       #a18a71
+*.color13:      #a18a71
+
+! cyan
+*.color6:       #cd9c6b
+*.color14:      #cd9c6b
+
+! white
+*.color7:       #b3b8b7
+*.color15:      #b3b8b7
+
+! Gneral settings
+URxvt.buffered: True
+URxvt.secondaryScroll: True
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+URxvt.internalBorder: 4
+URxvt.cursorBlink: True
+URxvt.cursorUnderline: False
+URxvt.saveline: 2048
+URxvt.scrollBar: False
+URxvt.scrollBar_right: False
+URxvt.urgentOnBell: True
+URvt.depth: 24
+URxvt.iso14755: False
